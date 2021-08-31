@@ -1,5 +1,7 @@
 # Audible Web Scraping
 
+[Blog Post](https://nycdatascience.com/blog/student-works/the-library-of-audible-web-scraping/)
+
 ### Background
 Audible is a audiobook (and podcast) distribution company founded in 1995 and acuqired by Amazon in 2008. The company sells mostly audiobooks using a mix of subscription (1 book / month) or a la carte pricing which tends to be higher. They offer audio media covering every genre, length, and type, and act as a distributor and producer for the content. Recent innovations include further integration with the Kindle and other amazon devices, having a-list actors record books, and producing original content. 
 
